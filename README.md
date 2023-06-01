@@ -9,13 +9,13 @@
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Juan24AM)
 ```python
-print("hello word")
+print("Hello, World!")
 ```
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Juan24AM)
 ```java
 public class Myclass {
     public static void main(String[] args) {
-        System.out.println("Hello Word");
+        System.out.println("Hello, World!");
     }
     
 }
@@ -23,7 +23,7 @@ public class Myclass {
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Juan24AM)
 ```javascript
 function holaMundo() {
-  console.log("¡Hola, mundo!");
+  console.log("Hello, World!");
 }
 ```
 
