@@ -9,7 +9,8 @@
 
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Juan24AM)
 ```python
-print("Hello, World!")
+def helloWorld():
+  print("Hello, World!")
 ```
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Juan24AM)
 ```java
@@ -22,16 +23,16 @@ public class Myclass {
 ```
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Juan24AM)
 ```javascript
-function holaMundo() {
+function helloWorld() {
   console.log("Hello, World!");
 }
 ```
 
 
 #### Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juan24AM&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juan24AM&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juan24AM&theme=github_dark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juan24AM&theme=github_dark)](https://github.com/Juan24AM)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Juan24AM&theme=github_dark)](https://github.com/Juan24AM)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Juan24AM&theme=github_dark)](https://github.com/Juan24AM)
 
 <!--
 **Juan24AM/Juan24AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
