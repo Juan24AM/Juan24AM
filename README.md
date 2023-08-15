@@ -1,4 +1,5 @@
-### Hi, i am Juan. 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0937F7&width=435&lines=Hi%2C+i+am+Juan.+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 
 `Hola, aquí estaré subiendo las cosas que voy aprendiendo. 🍃`
 <br>
